@@ -1,2 +1,2 @@
-# helloTriangle_vk
-vulkan triangle
+# Hello Triangle: Vulkan
+
